@@ -1,0 +1,18 @@
+projects:
+  Leads App:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - recordleads
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: typescript
+        generatedFileName: src/API.ts
+        docsFilePath: .
+        region: us-west-2
+        apiId: 52zz2onct5eojmo7sjptfbrtqi
+        maxDepth: 2
+extensions:
+  amplify:
+    version: 3
