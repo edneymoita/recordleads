@@ -1,5 +1,6 @@
 # Componente React para Captação de Dados de Clientes
 Desenvolvido como parte do treinamento VTEX - Hiring Coders 2021.
+
 <img src='https://hiringcoders-app.gama.academy/images/logo-sm.png' alt="Hiring Coders" width="auto" height="50" />  <img src='https://vtex.com/wp-content/themes/VTEXTheme/v2/images/base/vtex.svg' alt="VTEX" width="auto" height="50">  <img src='https://assets.website-files.com/5ff79f3ebebf6b12f6b7747f/5ffe04fc6284b7e90070d985_logo-gama-academy-p-500.png' alt="Gama Academy" width="auto" height="50">
 
 ***
